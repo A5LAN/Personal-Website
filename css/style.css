@@ -1070,7 +1070,7 @@
 		background-image: url("images/overlay.png"), url("../images/banner.jpg");
 		background-position: center top;
 		background-size: cover;
-		line-height: 1.75;
+		line-height: 5;
 		text-align: center;
 	}
 
