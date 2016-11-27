@@ -530,7 +530,7 @@
 		}
 
 		.image.left, .image.right {
-			max-width: 40%;
+			max-width: 20%;
 		}
 
 			.image.left img, .image.right img {
@@ -548,11 +548,11 @@
 			}
 
 		.image.rounded {
-			border-radius: 100%;
+			border-radius: 2em;
 		}
 
 			.image.rounded img {
-				border: solid 0.5em rgba(144, 144, 144, 0.25);
+				border: solid 0.25em rgba(144, 144, 144, 0.25);
 				border-radius: 100%;
 			}
 
