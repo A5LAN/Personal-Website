@@ -584,6 +584,7 @@
 			padding: 0;
 		}
 
+
 /* Icon */
 
 	.icon {
@@ -626,7 +627,6 @@
 			height: 100%;
 			left: 0;
 			opacity: 0.5;
-			position: absolute;
 			top: 0;
 			width: 100%;
 		}
@@ -674,7 +674,7 @@
 		}
 			.image.main2 img {
 				margin: auto;
-				height: 100%;
+				width: 100%;
 			}
 
 		.image.main {
