@@ -18,6 +18,10 @@
 		vertical-align: baseline;
 	}
 
+	video {
+		padding: 0 0 2em 0;
+	}
+
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
 	}
@@ -701,6 +705,7 @@
 				margin: 1.5rem 0;
 			}
 
+
 		}
 
 /* List */
@@ -1312,7 +1317,7 @@
 
 				#header nav ul li a {
 					display: block;
-					min-width: 7.5rem;
+					min-width: 9rem;
 					height: 2.75rem;
 					line-height: 2.75rem;
 					padding: 0 1.25rem 0 1.45rem;
